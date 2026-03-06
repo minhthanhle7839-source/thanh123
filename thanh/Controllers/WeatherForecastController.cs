@@ -17,7 +17,7 @@ namespace thanh.Controllers
         {
             _logger = logger;
         }
-
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
